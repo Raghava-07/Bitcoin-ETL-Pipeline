@@ -1,0 +1,7 @@
+# Ignore Data Files
+*.csv
+*.db
+
+# Ignore System Files
+__pycache__/
+.DS_Store
